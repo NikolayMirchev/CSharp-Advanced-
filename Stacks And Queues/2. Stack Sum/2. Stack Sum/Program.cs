@@ -9,7 +9,10 @@ namespace _2._Stack_Sum
         static void Main(string[] args)
         {
             Stack<int> stack = new Stack<int>();
-            int[] inputNumbers = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
+            int[] inputNumbers = Console.ReadLine()
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
 
             foreach (var num in inputNumbers)
             {
