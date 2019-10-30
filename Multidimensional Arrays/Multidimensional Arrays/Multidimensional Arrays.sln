@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Jagged-Array Modificatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Pascal Triangle", "7. Pascal Triangle\7. Pascal Triangle.csproj", "{5786C4AF-44FF-4B70-949E-CAAEAA77D311}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Diagonal Difference", "Problem 1. Diagonal Difference\Problem 1. Diagonal Difference.csproj", "{DB98A7C2-F633-445C-9294-D865765D4967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. 2x2 Squares in Matrix", "Problem 2. 2x2 Squares in Matrix\Problem 2. 2x2 Squares in Matrix.csproj", "{3A997F18-398C-465B-8BD7-BEDF0E13DBBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{5786C4AF-44FF-4B70-949E-CAAEAA77D311}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5786C4AF-44FF-4B70-949E-CAAEAA77D311}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5786C4AF-44FF-4B70-949E-CAAEAA77D311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB98A7C2-F633-445C-9294-D865765D4967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB98A7C2-F633-445C-9294-D865765D4967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB98A7C2-F633-445C-9294-D865765D4967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB98A7C2-F633-445C-9294-D865765D4967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A997F18-398C-465B-8BD7-BEDF0E13DBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A997F18-398C-465B-8BD7-BEDF0E13DBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A997F18-398C-465B-8BD7-BEDF0E13DBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A997F18-398C-465B-8BD7-BEDF0E13DBBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
