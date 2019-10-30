@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Sum Matrix Elements", "Multidimensional Arrays\1. Sum Matrix Elements.csproj", "{141F06F0-D0A5-48A7-90FB-631858A4CC70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Sum Matrix Columns", "2. Sum Matrix Columns\2. Sum Matrix Columns.csproj", "{DEE4CB20-BE9B-476D-8AE1-FCBFCEDBBCA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141F06F0-D0A5-48A7-90FB-631858A4CC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141F06F0-D0A5-48A7-90FB-631858A4CC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141F06F0-D0A5-48A7-90FB-631858A4CC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141F06F0-D0A5-48A7-90FB-631858A4CC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE4CB20-BE9B-476D-8AE1-FCBFCEDBBCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE4CB20-BE9B-476D-8AE1-FCBFCEDBBCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE4CB20-BE9B-476D-8AE1-FCBFCEDBBCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE4CB20-BE9B-476D-8AE1-FCBFCEDBBCA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C985E6-EED2-44B1-AE8C-3E7782C951C8}
+	EndGlobalSection
+EndGlobal
