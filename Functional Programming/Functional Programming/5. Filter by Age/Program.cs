@@ -31,7 +31,6 @@ namespace _5._Filter_by_Age
             {
                 Console.WriteLine($"{kvp.Key}");
             }
-
         }
     }
 }
